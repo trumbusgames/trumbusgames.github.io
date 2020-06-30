@@ -24,7 +24,7 @@
         "display4Font": "dadha",
         "display4Size": "1.2",
         "isRoundedButtons": true,
-        "isAnimatedOnScroll": true,
+        "isAnimatedOnScroll": false,
         "isScrollToTopButton": true
       },
       "additionalSetColors": [
